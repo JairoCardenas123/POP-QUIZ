@@ -99,4 +99,15 @@ SALIDA:[
     }
 ]
 
+2. ENDPOINT
 
+http://localhost:3001/usuarios/ejercicio3
+
+[
+    {
+        "_id": "65033e77d615b793071df88d",
+        "nombre": "juan lopez",
+        "consultorio": "A1",
+        "especialidad": "Cardiologo"
+    }
+]
